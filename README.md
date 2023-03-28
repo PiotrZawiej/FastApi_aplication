@@ -7,7 +7,7 @@ Running:
 
 1. Clone the repository to your computer:
 
-    git clone https://github.com/your-username/fastapi-jsonplaceholder.git
+    git clone https://github.com/PiotrZawiej/FastApi_aplication/blob/main/code
     cd fastapi-jsonplaceholder
 
 2. Install the required libraries:
