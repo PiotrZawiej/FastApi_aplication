@@ -16,6 +16,6 @@ Running:
 
 3. Run the application:
 
-    uvicorn app.main:app --reload
+    uvicorn main:app --reload
 
 The application will be available in a web browser at http://localhost:8000.
